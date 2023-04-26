@@ -29,6 +29,19 @@ body {
   align-items: center;
 }
 
+.sponsor-by-text {
+  color: rgb(231, 45, 45);
+}
+
+.sponsor-wrapper {
+  background-color: white;
+  border-radius: 20px;
+}
+
+.email-text .email-span {
+  color: rgb(231, 45, 45);
+} 
+
 .bg-container {
   background-image: url('../img/tim-copy-4.png');
   background-repeat: no-repeat;
